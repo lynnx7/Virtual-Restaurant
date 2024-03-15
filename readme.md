@@ -1,5 +1,10 @@
 # Virtual Restaurant
 
+[![MIT License][license-shield]][license-url]
+
+[license-shield]: https://img.shields.io/github/license/lynnx7/Virtual-Restaurant.svg?style=for-the-badge
+[license-url]: https://github.com/lynnx7/Virtual-Restaurant/blob/master/LICENSE.txt
+
 Welcome! This is my personal side project: a web application like online foor ordering system, where you could make reservation or browse various food - but the ordered food is presented as AI-generated Image rather than real food.
 
 Tech & Library used:
@@ -15,7 +20,7 @@ Appearance:
  4. Color Palette: [California Citrus](https://www.canva.com/colors/color-palettes/california-citrus/) by Canva
  5. Background Pattern Design: [Patternico](https://patternico.com)
 
-[![MIT License][https://img.shields.io/github/license/lynnx7/Virtual-Restaurant.svg?style=for-the-badge]][https://github.com/lynnx7/Virtual-Restaurant/blob/master/LICENSE.txt]
+
 
 # A Niche Tour
 
