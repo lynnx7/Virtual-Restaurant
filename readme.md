@@ -15,7 +15,7 @@ Appearance:
  4. Color Palette: [California Citrus](https://www.canva.com/colors/color-palettes/california-citrus/) by Canva
  5. Background Pattern Design: [Patternico](https://patternico.com)
 
-[![MIT License][https://img.shields.io/github/license/lynnx7/Virtual-Restaurant.svg?style=for-the-badge]][license-url]
+[![MIT License][https://img.shields.io/github/license/lynnx7/Virtual-Restaurant.svg?style=for-the-badge]][https://github.com/lynnx7/Virtual-Restaurant/blob/master/LICENSE.txt]
 
 # A Niche Tour
 
