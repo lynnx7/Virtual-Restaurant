@@ -27,25 +27,38 @@ This is the first page when you enter the website, you could choose to book a se
 
 ## Book - step one
 
+![Drag Racing](readme_img/b1.png)
+
 There are lists of restaurants - select one that fit you best. Then a form will come out asking for your details. Complete them and click **Next**
 
 ## Book - step two
+
+![Drag Racing](readme_img/b2.png)
 
 You will see a window asking you to check again your entered details. Click **Submit** if everything is right, or click **Go Back**
 
 ## Book - step three
 
+![Drag Racing](readme_img/b3.png)
+
 You will see the confirmation window, which mean your book is successful! Click **Go Back** to return to the front page
 
 ##  Order - step one
+
+![Drag Racing](readme_img/o1.png)
+
 There are a range of food you might want to order, click category on the left, then the relevant item will displayed on the right. You could search the item on the search bar located on the right top.
 
 To add an item, you could type in the quantity in "Qty" column, or manually click "+". Then click Add to add this item in the chart. You could modify this in the shopping cart if you change your mind. Click **Check-Out** when you selection is done.
 
 ## Order - step two
+
+![Drag Racing](readme_img/o2.png)
 You could see your order summary, including the total cost. Now it is time to pay for the bill - Don't worry, for this demo showcase we could use the Skip option. I implement the format testing to simulate the real scenario (e.g. your CVV can't exceed 3 digits). You could type anything and click **submit**
 
 ## Order - step three
+
+![Drag Racing](readme_img/o3.png)
 Now the food will "coming", wait a second and you will see the images of your order. Click **go back** to return to the front page.
 
 # Install Virtual Restaurant
