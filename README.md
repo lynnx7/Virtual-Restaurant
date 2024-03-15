@@ -1,11 +1,13 @@
 # Virtual Restaurant
 
-[![MIT License][license-shield]][license-url] * [![React][React.js]][React-url]
+[![React][React.js]][React-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![MIT License][license-shield]][license-url]
 
 [license-shield]: https://img.shields.io/github/license/lynnx7/Virtual-Restaurant.svg?style=for-the-badge
 [license-url]: https://github.com/lynnx7/Virtual-Restaurant/blob/master/LICENSE.txt
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
 
 Welcome! This is my personal side project: a web application like online foor ordering system, where you could make reservation or browse various food - but the ordered food is presented as AI-generated Image rather than real food.
 
