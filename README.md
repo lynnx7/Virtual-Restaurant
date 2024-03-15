@@ -21,6 +21,8 @@ Virtual Restaurant isn't complicated but I would like to guide you through - the
 
 ## Menu (Thumbnail)
 
+![Drag Racing](readme_img/thumbnail.png)
+
 This is the first page when you enter the website, you could choose to book a seat in advance by clicking **Book Now,** or direct order food by clicking **Order Now**.
 
 ## Book - step one
