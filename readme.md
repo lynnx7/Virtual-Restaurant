@@ -15,6 +15,8 @@ Appearance:
  4. Color Palette: [California Citrus](https://www.canva.com/colors/color-palettes/california-citrus/) by Canva
  5. Background Pattern Design: [Patternico](https://patternico.com)
 
+[![MIT License][https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge]][license-url]
+
 # A Niche Tour
 
 Virtual Restaurant isn't complicated but I would like to guide you through - there is a full tutorial on reproduce the web on your computer at the end, but if you just want a quick look please start here:
